@@ -1,0 +1,28 @@
+#topLeft{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 200px;;
+  height: 200px;;
+}
+#topRight{
+  position: absolute;
+  left: 250px;
+  width: 200px;
+  top: 50px;
+  height: 200px;
+}
+#bottomLeft{
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  width: 200px;
+  height: 200px;
+}
+#bottomRight{
+  position: absolute;
+  top: 250px;
+  left: 250px;
+  width: 200px;
+  height: 200px;
+}
